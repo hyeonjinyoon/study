@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "ca8fd7c294b3c9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0caab24d9382198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c8cadcc7f5d3259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Anki/🦄 천일문 Root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dbf64cc4c16b4cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb189fe74adfabb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899c673e249566fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7f83315fe0cd910",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35cdbde0eb133ecb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8950b0d05ad0340",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fac661c2004b8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "dddc5b36e62282d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8836c62596b97249",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Anki/🦄 천일문 Root.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51123985886eaa55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Anki/🦄 천일문 Root.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c741b395412c829",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a18c4b99f49fbd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Anki/🦄 천일문 Root.md"
+              }
+            }
+          },
+          {
+            "id": "e1d666c693cb243b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7c8cadcc7f5d3259",
+  "lastOpenFiles": [
+    "1. Anki/천일문/98 963 삽입구문.md",
+    "1. Anki/🦄 천일문 Root.md",
+    "Welcome.md",
+    "1. Anki/천일문/현재완료에 대해 설명하시오.md",
+    "1. Anki/천일문/준동사에 대해서.md",
+    "1. Anki/천일문/세미콜론.md",
+    "1. Anki/천일문/부사의 위치.md",
+    "1. Anki/천일문/대시 , 소괄호.md",
+    "1. Anki/천일문/with the result that ....md",
+    "1. Anki/천일문/When the war broke out, I was but 5 years old.md",
+    "1. Anki/천일문/vice versa.md",
+    "1. Anki/천일문/tip. with + O + 형용사}부사}전명구.md",
+    "1. Anki/천일문/speaking{talking} of.md",
+    "1. Anki/천일문/so as to-v.md",
+    "1. Anki/천일문/since 부사절 팁.md",
+    "1. Anki/천일문/remind A of B.md",
+    "1. Anki/천일문/putting it simply.md",
+    "1. Anki/천일문/provided (that).md",
+    "1. Anki/천일문/Prefer A to B.md",
+    "1. Anki/천일문/prefix와 suffix에 대해.md",
+    "1. Anki/천일문/on the ground(s) that ....md",
+    "1. Anki/천일문/on condition that ....md",
+    "1. Anki/천일문/not less than.md",
+    "1. Anki/천일문/not more than.md",
+    "1. Anki/천일문/no more than.md",
+    "1. Anki/천일문/no less than.md",
+    "1. Anki/천일문",
+    "1. Anki/영문법",
+    "1. Anki/단어",
+    "1. Anki/국어",
+    "1. Anki"
+  ]
+}

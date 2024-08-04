@@ -1,0 +1,48 @@
+- ### 진행
+	-  supper
+	- capable
+	- braced
+	- flaunt
+	- recession
+	- resurrection
+	-  [[supper]]
+	- [[capable]]
+	- [[fragrance]]
+	- [[odor]]
+	- [[complications]] - 합병증 , 복잡성
+	- [[curing]] - cure
+- ### 완료
+	- 이 밑으로 추가
+	- [[heir]]
+	- [[terrified]]
+	- [[willingness]]
+	- [[identify]]
+	- [[medium]]
+	- [[postulate]]
+	- [[deficit]]
+	- [[deficiency]]
+	- [[competent]]
+	- [[comprehensive]]
+	- [[thrift]]
+	- [[widen]]
+	- [[onward]]
+	- [[puddle]]
+	- [[reluctant]]
+	- [[purposely]]
+	- [[brace]]
+	- [[understood]]
+	- [[scarcely]]
+	- [[as good as]]
+	- [[as though]]
+	- [[though]]
+	- [[anticipation]]
+	- [[weekday]]
+	- [[self-esteem]]
+	- [[foe]]
+	- [[apt]]
+	- [[gloomy]]
+	- [[pomegranate]]
+	- [[by leaps and bounds]]
+	- [[vulnerabilities]]
+	- [[through]]
+	- [[terrific vs terrible]]

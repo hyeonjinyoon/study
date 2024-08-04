@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Anki/🦄 천일문 Root.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Anki/🦄 천일문 Root.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Anki/🦄 천일문 Root.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Anki/🦄 천일문 Root.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,38 +166,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c8cadcc7f5d3259",
+  "active": "899c673e249566fa",
   "lastOpenFiles": [
-    "1. Anki/천일문/98 963 삽입구문.md",
-    "1. Anki/🦄 천일문 Root.md",
     "Welcome.md",
-    "1. Anki/천일문/현재완료에 대해 설명하시오.md",
-    "1. Anki/천일문/준동사에 대해서.md",
-    "1. Anki/천일문/세미콜론.md",
-    "1. Anki/천일문/부사의 위치.md",
-    "1. Anki/천일문/대시 , 소괄호.md",
-    "1. Anki/천일문/with the result that ....md",
-    "1. Anki/천일문/When the war broke out, I was but 5 years old.md",
-    "1. Anki/천일문/vice versa.md",
-    "1. Anki/천일문/tip. with + O + 형용사}부사}전명구.md",
-    "1. Anki/천일문/speaking{talking} of.md",
-    "1. Anki/천일문/so as to-v.md",
-    "1. Anki/천일문/since 부사절 팁.md",
-    "1. Anki/천일문/remind A of B.md",
-    "1. Anki/천일문/putting it simply.md",
-    "1. Anki/천일문/provided (that).md",
-    "1. Anki/천일문/Prefer A to B.md",
-    "1. Anki/천일문/prefix와 suffix에 대해.md",
-    "1. Anki/천일문/on the ground(s) that ....md",
-    "1. Anki/천일문/on condition that ....md",
-    "1. Anki/천일문/not less than.md",
-    "1. Anki/천일문/not more than.md",
-    "1. Anki/천일문/no more than.md",
-    "1. Anki/천일문/no less than.md",
-    "1. Anki/천일문",
-    "1. Anki/영문법",
-    "1. Anki/단어",
-    "1. Anki/국어",
-    "1. Anki"
+    "README.md",
+    "Books/클린 아키텍처/Image/제어흐름.PNG",
+    "Books/클린 아키텍처/README.md",
+    "Books/클린 아키텍처/Image",
+    "Books/클린 아키텍처/15회차_34장.md",
+    "Books/클린 아키텍처/14회차_31,32,33장.md",
+    "Books/클린 아키텍처/13회차_28,30장.md",
+    "Books/클린 아키텍처/12회차_25,26,27장.md",
+    "Books/클린 아키텍처/11회차_23,24장.md",
+    "Books/클린 아키텍처/10회차_20,21,22장.md",
+    "Books/클린 아키텍처/09회차_18,19장.md",
+    "Books/클린 아키텍처/08회차_17장.md",
+    "Books/클린 아키텍처/07회차_15,16장.md",
+    "Books/클린 아키텍처/05회차_12,13장.md",
+    "Books/클린 아키텍처/04회차_8,9,10,11장.md",
+    "Books/클린 아키텍처/03회차_6,7장.md",
+    "Books/클린 아키텍처/02회차_3,4,5장.md",
+    "Books/클린 아키텍처/01회차_1,2장.md",
+    "Books/클린 아키텍처",
+    "Books/읽기 좋은 코드가 좋은 코드다/README.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/15장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/13,14장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/12장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/11장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/10장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/09.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/08장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다/07장.md",
+    "Books/읽기 좋은 코드가 좋은 코드다",
+    "Books/ReadAbleCode-master",
+    "Books/클린 아키텍처 스터디/Image/제어흐름.PNG",
+    "Books/클린 아키텍처 스터디/Image",
+    "Books/클린 아키텍처 스터디",
+    "Books/Cleanarchitecture-main/Image/제어흐름.PNG",
+    "Books/Cleanarchitecture-main/Image",
+    "Books/Cleanarchitecture-main",
+    "Books/ReadAbleCode-master.zip",
+    "Books/Cleanarchitecture-main.zip"
   ]
 }

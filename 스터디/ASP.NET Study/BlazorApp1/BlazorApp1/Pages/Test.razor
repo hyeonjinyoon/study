@@ -1,0 +1,85 @@
+﻿@page "/Test"
+@using BlazorApp1.Data
+@using BlazorApp1.Models
+@using Microsoft.EntityFrameworkCore
+@inject ScoreContext ScoreContext
+
+<PageTitle>스코어보드</PageTitle>
+
+<h1>스코어보드</h1>
+<p>유저들의 스코어를 보여줍니다</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>User ID</th>
+        <th>Score</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var scoreItem in GetScoreRanking().OrderByDescending(item => item.id))
+    {
+        <tr>
+            <td>@scoreItem.user</td>
+            <td>@scoreItem.id.ToString()</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<button class="btn btn-primary" @onclick="SubmitScore">Click me</button>
+<button class="btn btn-primary" @onclick="ResetScore">Reset</button>
+
+@code {
+    private List<ScoreItem> GetScoreRanking()
+    {
+        return ScoreContext.Scores.ToList();
+    }
+
+    protected int GetScore(string uid)
+    {
+        var scoreItem = ScoreContext.Scores.FirstOrDefault(item => item.user == uid);
+        return scoreItem?.id ?? 0;
+    }
+
+    private void SubmitScore()
+    {
+        const string PLAYER_NAME = "imabanana";
+        var scoreItem = ScoreContext.Scores.FirstOrDefault(item => item.user == PLAYER_NAME);
+        var score = scoreItem.id;
+        
+        if (scoreItem != null)
+        {
+            scoreItem.id = score + 1;
+        }
+        else
+        {
+            ScoreContext.Scores.Add(new ScoreItem()
+            {
+                user = PLAYER_NAME,
+                id = 0,
+            });
+        }
+        ScoreContext.SaveChanges();
+    }
+    
+    private void ResetScore()
+    {
+        const string PLAYER_NAME = "imabanana";
+        var scoreItem = ScoreContext.Scores.FirstOrDefault(item => item.user == PLAYER_NAME);
+        
+        if (scoreItem != null)
+        {
+            scoreItem.id = 0;
+        }
+        else
+        {
+            ScoreContext.Scores.Add(new ScoreItem()
+            {
+                user = PLAYER_NAME,
+                id = 0,
+            });
+        }
+        ScoreContext.SaveChanges();
+    }
+}

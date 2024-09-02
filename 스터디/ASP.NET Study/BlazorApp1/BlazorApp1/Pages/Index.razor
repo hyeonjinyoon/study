@@ -1,0 +1,21 @@
+﻿@page "/"
+@using Markdig
+@using Microsoft.AspNetCore.Html
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?"/>
+
+@(GetMarkDownText())
+
+@code {
+    private string GetMarkDownText()
+    {
+        //return (new HtmlString(Markdown.ToHtml("This is a text with some *emphasis*")));
+        return (Markdown.ToHtml("마크다운 테스트 *강조*"));
+    }
+}

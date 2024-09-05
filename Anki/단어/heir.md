@@ -18,7 +18,5 @@ Ancestor and **heir** are privies by estate. 
 상속인 , 계승자
 
 해석:
-
-
-
+<!--ID: 1725498073316-->
 END

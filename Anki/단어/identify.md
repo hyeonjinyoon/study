@@ -18,7 +18,5 @@ You should not **identify** wealth with happiness. 
 확인하다{알아보다} , 찾다{발견하다} , 동일시하다
 
 해석:
-
-
-
+<!--ID: 1725498073311-->
 END

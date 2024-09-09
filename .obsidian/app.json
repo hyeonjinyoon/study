@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "strictLineBreaks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "showRibbon": true
 }

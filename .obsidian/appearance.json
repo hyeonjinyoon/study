@@ -1,5 +1,7 @@
 {
   "cssTheme": "Obsidianotion",
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "showViewHeader": true
 }

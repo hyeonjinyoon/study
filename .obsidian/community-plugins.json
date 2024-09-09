@@ -1,7 +1,6 @@
 [
   "recent-files-obsidian",
   "obsidian-to-anki-plugin",
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "obsidian-emoji-toolbar",
@@ -9,5 +8,6 @@
   "calendar",
   "buttons",
   "table-editor-obsidian",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "open-note-to-window-title"
 ]

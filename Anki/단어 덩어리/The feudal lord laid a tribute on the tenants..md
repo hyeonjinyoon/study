@@ -12,5 +12,5 @@ The feudal lord laid a **tribute** on the tenants.
 해석:
 
 
-
+<!--ID: 1733296949234-->
 END

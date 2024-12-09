@@ -12,5 +12,5 @@ He is facing his **antagonist** on the bridge.
 해석:
 
 
-
+<!--ID: 1733296949397-->
 END

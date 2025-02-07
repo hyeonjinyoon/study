@@ -3,5 +3,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "nativeMenus": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

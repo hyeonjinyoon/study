@@ -2,6 +2,5 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "spellcheck": false,
-  "showInlineTitle": true,
-  "showRibbon": true
+  "showInlineTitle": true
 }

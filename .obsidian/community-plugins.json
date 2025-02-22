@@ -8,5 +8,7 @@
   "buttons",
   "table-editor-obsidian",
   "obsidian-plugin-toc",
-  "open-note-to-window-title"
+  "open-note-to-window-title",
+  "obsidian-outliner",
+  "quick-explorer"
 ]

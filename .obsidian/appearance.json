@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "nativeMenus": false,
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 16
 }

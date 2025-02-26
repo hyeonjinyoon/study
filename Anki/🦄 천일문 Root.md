@@ -328,27 +328,3 @@ further study
 ## 101 주어를 부사로 해석해야 하는 구문
 - [[101 1000 주어를 부사로 해석해야 하는 구문]]
 
-
-
-
-
-> 단 하나의 후회도 없도록
-
-
-The event is to be hold next year 
-
-He gritted his teeth against the humiliation. 
-그는 혀를 깨물고 그 모욕을 견뎠다.
-
-I won’t interfere—it’s your show. 
-
-난 참견하지 않을래. 그건 네 일이니까.
-
-처음부터 끝까지
-후회없이 죽을듯이 달려야한다
-
-단 하나의 후회도 없도록
-
-She deemed it **prudent** not to say anything. 
-그녀는 아무 말도 하지 않는 것이 신중한 처사라고 생각했다.
-

@@ -18,5 +18,5 @@ There’s a **deficit** of $3 million in the total needed to complete
 적자 , 결손
 
 해석:
-<!--ID: 1698487139825-->
+<!--ID: 1740535758588-->
 END

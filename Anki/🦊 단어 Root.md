@@ -1,18 +1,13 @@
 - ### 진행
-	-  supper
-	- capable
-	- braced
-	- flaunt
-	- recession
-	- resurrection
 	-  [[supper]]
-	- [[capable]]
-	- [[fragrance]]
-	- [[odor]]
-	- [[complications]] - 합병증 , 복잡성
-	- [[curing]] - cure
 - ### 완료
 	- 이 밑으로 추가
+	- flaunt
+	- [[complications]] - 합병증 , 복잡성
+	- [[fragrance]]
+	- [[recession-1]]
+	- [[resurrection-1]]
+	- [[odor]]
 	- [[heir]]
 	- [[terrified]]
 	- [[willingness]]

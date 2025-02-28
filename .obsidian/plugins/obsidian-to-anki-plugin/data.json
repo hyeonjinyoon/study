@@ -105,7 +105,11 @@
       "Anki/단어 덩어리": "전체::영어::영단어 덩어리",
       "Anki/단어-토익": "전체::영어::토익",
       "책/Pending": "",
-      "Anki/자유 문장": "전체::영어::자유 문장"
+      "Anki/자유 문장": "전체::영어::자유 문장",
+      "Archive": "",
+      "Archive/책": "",
+      "Anki/넷플릭스": "",
+      "Anki/넷플릭스/릭앤모티": "전체::영어::넷플릭스::릭앤모티"
     },
     "FOLDER_TAGS": {
       "일기": "",
@@ -184,7 +188,11 @@
       "Anki/단어 덩어리": "",
       "Anki/단어-토익": "",
       "책/Pending": "",
-      "Anki/자유 문장": ""
+      "Anki/자유 문장": "",
+      "Archive": "",
+      "Archive/책": "",
+      "Anki/넷플릭스": "",
+      "Anki/넷플릭스/릭앤모티": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -225,10 +233,10 @@
     "책/설국.md": "d0331121b55ccbdf042d61fa1edc34ef",
     "책/아주 작은 습관의 힘.md": "98024f608c81b7609d8743fd8086c291",
     "책/불안한 완벽주의자를 위한 책.md": "71879ee6764b6093a89c04ae8c73abfd",
-    "책/면도날.md": "e814eb3b486037c29a748db5ab58b6bc",
+    "책/면도날.md": "dd5594d96a1e0bbf7b2df8eaa8fa8b81",
     "책/명상록.md": "71879ee6764b6093a89c04ae8c73abfd",
-    "책/규칙 없음.md": "df615781b391a46e95c76a20d2edbada",
-    "책/도파미네이션.md": "d4d7a0e54246fe17c203737b27693487",
+    "책/규칙 없음.md": "be972d30b9e4339a91c3483afc40aca5",
+    "책/도파미네이션.md": "73f1ada8805c0906534568cf9d697090",
     "책/대화의 정석.md": "f4b579c3da860ca93673d6ae516ea6cf",
     "책/고도를 기다리며.md": "f0498e836c6b84794cff2960deb2045a",
     "인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈/README.md": "969525d7aadad37eef0d498b89b61f6e",
@@ -270,7 +278,7 @@
     "Anki/단어 덩어리/Her proposal met with unanimous rejection..md": "8b26bb70735be1a962735b612b8d76f4",
     "Anki/단어 덩어리/counteract the effects of stress.md": "78771a62b6f0415d372be8d1d132cd5c",
     "Anki/🦄 천일문 Root.md": "02d35199350ca775e637afc913ad1a39",
-    "Anki/🦊 단어 Root.md": "a56488753d13d4016ff9ffaaf4c9b28a",
+    "Anki/🦊 단어 Root.md": "57e83d0a022f9cb50e6d142a77ae8f56",
     "Anki/🐇 국어 Root.md": "697620184f84623ddf38333a76f94cde",
     "Anki/천일문/현재완료에 대해 설명하시오.md": "56e29452d4a5994ee0218967f46468aa",
     "Anki/천일문/준동사에 대해서.md": "689d787ed976e4ec710af66ee3497510",
@@ -687,7 +695,21 @@
     "Anki/단어 덩어리/odor.md": "1e35826b76a52cbb6d339b077822d790",
     "Anki/영문법/be pp , get pp.md": "c296af4acb1cfc2eeb81279bb4a3dbc9",
     "Anki/자유 문장/Hardly when.md": "cb2aa08517e285aaa5acca8167137eed",
-    "Anki/자유 문장/I used to like you..md": "94bd94be9e465cf468e928f2749fd194"
+    "Anki/자유 문장/I used to like you..md": "94bd94be9e465cf468e928f2749fd194",
+    "책/클린 소프트웨어.md": "a1eb8a6f5d203e6c754da34b6bb91cf6",
+    "Anki/영문법/will have.md": "5f45cfe68f14828f7cd6b2bacd1c1b6b",
+    "Anki/넷플릭스/릭앤모티/can't just.md": "2cbf22f0ea2ab1d74aff540ed36cd77d",
+    "Anki/넷플릭스/릭앤모티/Stunning.md": "9070b936821b02d48bdc4a6d9937435f",
+    "Anki/자유 문장/how'd i get here.md": "b0f112c09967df88acbd83da754b1337",
+    "Anki/자유 문장/i just killed my ex.md": "002291034b8e88235c66ee26ee91b261",
+    "Anki/단어 덩어리/flaunt-1.md": "fec8fb0ca844927eda3eaa4eaa8b54bf",
+    "Anki/단어 덩어리/complication-2.md": "1c7da57b72b40fd81dd8d5da1173397f",
+    "Anki/단어 덩어리/complication-1.md": "a3b0597fe932419211e835fcbafc21f0",
+    "Anki/단어 덩어리/fragrance-1.md": "cd03240fea77a734e25324ffe93b1ce9",
+    "Anki/단어 덩어리/resurrection-1.md": "799901ac363ea721222d152b9a0f0d1b",
+    "Anki/단어 덩어리/recession-1.md": "1c7d305671cf3ebf26910735a1e68679",
+    "Archive/인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈/README.md": "969525d7aadad37eef0d498b89b61f6e",
+    "Archive/인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈/Part4-게임 서버/섹션0-개론.md": "d41d8cd98f00b204e9800998ecf8427e"
   },
   "fields_dict": {
     "Basic-KoreAnki": [

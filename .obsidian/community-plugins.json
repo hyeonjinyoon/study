@@ -1,6 +1,5 @@
 [
   "obsidian-to-anki-plugin",
-  "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "obsidian-emoji-toolbar",
   "emoji-shortcodes",
@@ -11,5 +10,6 @@
   "open-note-to-window-title",
   "obsidian-outliner",
   "quick-explorer",
-  "note-archiver"
+  "note-archiver",
+  "recent-files-obsidian"
 ]

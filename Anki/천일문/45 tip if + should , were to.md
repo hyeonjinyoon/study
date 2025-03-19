@@ -10,7 +10,7 @@ If anything should happen, please contact him.
 
 만약 무슨 일이 생기면, 그에게 연락주세요.
 
-were to 와 달리 should는 주절에 조동사 현재형이나 명령문이 올 수도 있다
+[[45 456 if + should , were to|were to]]와 달리 should는 주절에 조동사 현재형이나 명령문이 올 수도 있다
 
 ex) If it should rain tomorrow, the game will be postponed.
 

@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-We run a commercially oriented operation. 
+We run a commercially **oriented** operation. 
 
 
 뒷면:

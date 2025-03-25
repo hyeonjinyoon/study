@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-I just** go with** the flow.
+I just **go with** the flow.
 
 
 뒷면:

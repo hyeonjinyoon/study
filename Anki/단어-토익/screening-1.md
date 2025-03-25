@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-His thesis passed a strict screening[examination]. 
+His thesis passed a strict **screening**. 
 
 
 뒷면:

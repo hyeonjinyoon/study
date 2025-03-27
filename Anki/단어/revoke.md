@@ -14,10 +14,8 @@ Due to a breach of contract, the authorities **revoked** the company's business 
 After discovering the fraud, the bank promptly **revoked** the customer's credit card to prevent further misuse.
 사기를 발견한 후, 은행은 추가 남용을 막기 위해 즉시 고객의 신용카드를 취소했다.
 
-폐지[철회/취소]하다
+{동} 폐지[철회/취소]하다
 
 해석:
-{타동사}
-
 <!--ID: 1738912327324-->
 END

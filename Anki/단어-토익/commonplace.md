@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-Two-income family is commonplace today. 
+Two-income family is **commonplace** today. 
 
 뒷면:
 요즘은 맞벌이 가정이 흔하다

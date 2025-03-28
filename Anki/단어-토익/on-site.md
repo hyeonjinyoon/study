@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-(Caught on site) What did you just put in?
+(Caught **on site**) What did you just put in?
 
 뒷면:
 (현장 검거) 지금 뭐 넣으신 거에요?

@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-You have a right to immediate legal counsel. 
+You have a right to immediate **legal counsel**. 
 
 뒷면:
 당신은 즉시 법률 조언을 받을 권리가 있습니다.

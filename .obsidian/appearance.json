@@ -1,9 +1,11 @@
 {
-  "cssTheme": "Obsidianotion",
+  "cssTheme": "",
   "accentColor": "",
   "theme": "obsidian",
   "nativeMenus": false,
   "showViewHeader": true,
   "showRibbon": true,
-  "baseFontSize": 16
+  "baseFontSize": 15,
+  "textFontFamily": "Noto Sans,Noto Sans KR",
+  "interfaceFontFamily": "Noto Sans,Noto Sans KR"
 }

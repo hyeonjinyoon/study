@@ -109,7 +109,13 @@
       "Archive": "",
       "Archive/책": "",
       "Anki/넷플릭스": "",
-      "Anki/넷플릭스/릭앤모티": "전체::영어::넷플릭스::릭앤모티"
+      "Anki/넷플릭스/릭앤모티": "전체::영어::넷플릭스::릭앤모티",
+      "Archive/인프런": "",
+      "Archive/인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈": "",
+      "스터디/클린 아키텍처 복습/클린 아키텍처": "",
+      "Archive/인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈/Part4-게임 서버": "",
+      "스터디/클린 아키텍처 복습/클린 아키텍처/Image": "",
+      "Anki/워드마스터수능2000": "전체::영어::영단어::수능영단어"
     },
     "FOLDER_TAGS": {
       "일기": "",
@@ -192,7 +198,13 @@
       "Archive": "",
       "Archive/책": "",
       "Anki/넷플릭스": "",
-      "Anki/넷플릭스/릭앤모티": ""
+      "Anki/넷플릭스/릭앤모티": "",
+      "Archive/인프런": "",
+      "Archive/인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈": "",
+      "스터디/클린 아키텍처 복습/클린 아키텍처": "",
+      "Archive/인프런/C샵과 유니티로 만드는 MMORPG 게임 개발 시리즈/Part4-게임 서버": "",
+      "스터디/클린 아키텍처 복습/클린 아키텍처/Image": "",
+      "Anki/워드마스터수능2000": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -977,7 +989,34 @@
     "Anki/단어-토익/endless.md": "62d74c6cffdf849bb55b5cb3708dfc4c",
     "Anki/단어-토익/take apart.md": "8545d8be767de45bb2da07e78df511b0",
     "Anki/단어-토익/utility provider.md": "5534c9d2bd24a5322170d08212ac1e35",
-    "Anki/단어-토익/acquired-2.md": "abcb90334ede3a9af421f7fa774cc6d8"
+    "Anki/단어-토익/acquired-2.md": "abcb90334ede3a9af421f7fa774cc6d8",
+    "Anki/워드마스터수능2000/consequence.md": "d2b9606cf6480b071940f0eca50bb22e",
+    "Anki/단어 덩어리/throughout-3.md": "b544f99df8f25e57d8f6c807ec844c2d",
+    "Anki/단어 덩어리/consist-3.md": "cdd588dfa6d67ddd4b300f4d1e3bfb47",
+    "Anki/단어 덩어리/eliminate-3.md": "702dfc7e733e8399ea1c16feb2c6f467",
+    "Anki/단어-토익/lax.md": "0e6075d450368a45b260c02c09118f5d",
+    "Anki/단어-토익/voluntarily.md": "48f077e8d1d0e60b86beb0c61445c993",
+    "Anki/단어-토익/procrastinate.md": "4cd185489a9a441209a4c2990c7d65aa",
+    "Anki/단어-토익/undertake-2.md": "0eae68a6730c7ba527518cc1f5bf7381",
+    "Anki/단어-토익/assume.md": "3ac0a659c257ca01409c02bc84687a60",
+    "Anki/단어-토익/personnel.md": "7493fb63cd20714547e5c1049c29ed52",
+    "Anki/단어-토익/responsible-2.md": "b9857fc5ed8fd896eb2cefde3adcfde3",
+    "Anki/단어-토익/assume-2.md": "3ac0a659c257ca01409c02bc84687a60",
+    "Anki/단어-토익/confidential.md": "1baa394b7ab4738cd2bac6d1c7e148a7",
+    "Anki/단어-토익/coworker.md": "0eba92a21b63445306bf774a7ad7c74d",
+    "Anki/단어-토익/hardly.md": "5d9cc9ff10e17ea411afb174357bf607",
+    "Anki/단어-토익/coordinate.md": "fe3bd7d4c990767113f25a12983e2ef5",
+    "Anki/단어-토익/duplicate.md": "caafb28778a80a1e458102853eed3712",
+    "Anki/단어-토익/respectful.md": "233fcca83f149a0bc37a822d8f32d3fc",
+    "Anki/단어-토익/intention-2.md": "2d28217ad952df9a87ee58d4aaa1debd",
+    "Anki/단어-토익/skillfully.md": "1b2b80863d706e937725efa09c09409f",
+    "Anki/단어-토익/accountable.md": "2298034586703edf6a2531263f0daf90",
+    "Anki/단어-토익/directory.md": "1280a4e96fc1634e7b70e64e07a53736",
+    "Anki/단어-토익/externally.md": "d04b15c697107bc328721f8f4bc31252",
+    "Anki/단어-토익/widely.md": "6e93c146fc205475998c7c59535bf9ee",
+    "Anki/단어-토익/neutrality.md": "a1db466ea5329a4ad341613e47078045",
+    "Anki/단어-토익/engage.md": "caf2e274639f769f06acb811bf17b050",
+    "Anki/단어-토익/disturbing.md": "cf279ef8be458e31a7855325f8f2ebdf"
   },
   "fields_dict": {
     "Basic-KoreAnki": [

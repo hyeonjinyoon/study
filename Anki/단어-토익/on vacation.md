@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-They’re on vacation in Hawaii right now. 
+They’re **on vacation** in Hawaii right now. 
 
 뒷면:
 그들은 지금 현재 하와이에서 휴가(를 보내고 있는) 중이다.

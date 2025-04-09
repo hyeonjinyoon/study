@@ -2,10 +2,10 @@ START
 기본
 
 앞면:
-책임감을 좀 가져요.
+Please be **responsible**.
 
 뒷면:
-Please be **responsible**.
+책임감을 좀 가져요.
 
 해석:
 You are **responsible** for cleaning up this mess.

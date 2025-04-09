@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-The industrialist visited the production line for the site inspection. 
+The industrialist visited the production line for the **site inspection**. 
 
 
 뒷면:

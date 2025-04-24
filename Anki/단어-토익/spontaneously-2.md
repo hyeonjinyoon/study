@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-The bleeding often stops spontaneously. 
+The bleeding often stops **spontaneously**. 
 
 뒷면:
 출혈은 흔히 저절로 멎는다.

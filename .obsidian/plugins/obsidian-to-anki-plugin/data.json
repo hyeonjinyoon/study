@@ -122,7 +122,13 @@
       "Anki/일본어": "전체::일본어",
       "Anki/일본어/가타카나": "전체::일본어::가타카나",
       "Anki/일본어/히라가나": "전체::일본어::히라가나",
-      "Anki/일본어/자유 문장": "전체::일본어::자유 문장"
+      "Anki/일본어/자유 문장": "전체::일본어::자유 문장",
+      "Anki/한자": "",
+      "Anki/한자/정체": "전체::한자::정체",
+      "Anki/한자/간체": "전체::한자::간체",
+      "Anki/한자/중국어": "전체::한자::중국어",
+      "Anki/한자/중국어/자유 문장": "전체::한자::중국어::자유 문장",
+      "Anki/한자/중국어/단어": "전체::한자::중국어::단어"
     },
     "FOLDER_TAGS": {
       "일기": "",
@@ -215,7 +221,13 @@
       "Anki/일본어": "",
       "Anki/일본어/가타카나": "",
       "Anki/일본어/히라가나": "",
-      "Anki/일본어/자유 문장": ""
+      "Anki/일본어/자유 문장": "",
+      "Anki/한자": "",
+      "Anki/한자/정체": "",
+      "Anki/한자/간체": "",
+      "Anki/한자/중국어": "",
+      "Anki/한자/중국어/자유 문장": "",
+      "Anki/한자/중국어/단어": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -1205,7 +1217,7 @@
     "Anki/단어-토익/writing pad.md": "134dda3c46d82ca04ce4454631e550f2",
     "Anki/단어-토익/anticipation-2.md": "f3853f11401ef63a26ab492ef36459fc",
     "Anki/단어-토익/automobile.md": "e8e8acc6d19143a31ca029f932637800",
-    "Anki/단어-토익/be asked to do.md": "f3263fc7769617703009d4f242404d61",
+    "Anki/단어-토익/be asked to do.md": "4d232c32e10e6875092925b48907751c",
     "Anki/단어-토익/be paid for.md": "ec5a7b2628c7540f1bf674e0c895393e",
     "Anki/단어-토익/draw on.md": "fe7a147ec89c6fc4d25d6c0d1fb4c13e",
     "Anki/단어-토익/excuse-2.md": "8902587b79ea38ec7f5cd165d9c07292",
@@ -1329,7 +1341,26 @@
     "Anki/일본어/가타카나/キ.md": "ca70de9b8afeabd280e31be558954453",
     "Anki/일본어/가타카나/ク.md": "a873f3b04e345bbf00bbf815ac9c58a9",
     "Anki/일본어/가타카나/ケ.md": "b87688d18fc42e5af1fb6c05336b7438",
-    "Anki/일본어/가타카나/コ.md": "62411dea7a269dce80b62d65ff8953f5"
+    "Anki/일본어/가타카나/コ.md": "62411dea7a269dce80b62d65ff8953f5",
+    "Anki/단어 덩어리/linger-2.md": "2b0a2db402d7c4f872fd79dd9306da36",
+    "Anki/영문법/except for.md": "a6299be1fe9ee42e45a6cde34f17b257",
+    "Anki/영문법/will be able to.md": "08d874945bab878ff6d28d1bd4f1a653",
+    "Anki/일본어/가타카나/サ.md": "ec1fe82eb4e7e095b21f0f0afd699c41",
+    "Anki/일본어/가타카나/シ.md": "6c141622c25a74ca29855b1baf8dc4a9",
+    "Anki/일본어/가타카나/ス.md": "634e8db346188e61f80fd3252fc271c8",
+    "Anki/일본어/가타카나/セ.md": "ce9dad48dd4a45c50ed1834a34c4e729",
+    "Anki/일본어/가타카나/ソ.md": "d810885634db8d1497332784dd3c0db0",
+    "Anki/한자/간체/我.md": "b87f2d38a1f9b71c3b5068a19b67265e",
+    "Anki/한자/정체/我.md": "51a22285d13f3419bc1f2b2216f8a491",
+    "Anki/한자/정체/依.md": "cacb4716407d585407fba4dd42a6b6fd",
+    "Anki/한자/중국어/자유 문장/这是一个依山傍水、风景如画的小镇。.md": "e88c545a423385d5d6c10701e4c07d43",
+    "Anki/한자/정체/然.md": "773833b46e8345bfd61cd3997fe62ea6",
+    "Anki/한자/정체/愛.md": "4ce2721613045dade68bd42ad3d21609",
+    "Anki/한자/정체/儞.md": "a996488eb99efbb9d457864bbb477fbe",
+    "Anki/한자/간체/爱.md": "f88d95bb75340391ae018f7c606b0227",
+    "Anki/한자/간체/你.md": "ec717a69ef7bdd1cee38197c6bb4accf",
+    "Anki/한자/중국어/자유 문장/我依然爱你.md": "e46a410fc7cf9774a32df244748eeb55",
+    "Anki/한자/중국어/단어/依然.md": "096ebda144cb288ebc3ac734e2ed9b76"
   },
   "fields_dict": {
     "Basic BehindSound": [

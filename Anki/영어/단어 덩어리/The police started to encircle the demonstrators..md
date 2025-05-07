@@ -10,6 +10,5 @@ The police started to **encircle** the demonstrators.
 
 
 해석:
-
 <!--ID: 1733713308938-->
 END

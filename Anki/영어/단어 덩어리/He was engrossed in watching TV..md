@@ -10,6 +10,5 @@ He was **engrossed** in watching TV.
 
 
 해석:
-
 <!--ID: 1733133924650-->
 END

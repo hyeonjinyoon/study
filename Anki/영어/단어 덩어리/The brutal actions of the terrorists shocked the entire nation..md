@@ -10,6 +10,5 @@ The **brutal** actions of the terrorists shocked the entire nation.
 
 
 해석:
-
 <!--ID: 1733134677976-->
 END

@@ -10,6 +10,5 @@ The meeting was **attended** by 90% of shareholders.
 
 
 해석:
-
 <!--ID: 1733134677975-->
 END

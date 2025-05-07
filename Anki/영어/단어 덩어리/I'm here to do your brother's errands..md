@@ -10,6 +10,5 @@ I'm here to do your brother's **errands**.
 
 
 해석:
-
 <!--ID: 1733726319981-->
 END

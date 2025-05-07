@@ -10,6 +10,5 @@ Troops were called in to **subdue** the rebels. 
 
 
 해석:
-
 <!--ID: 1725499596979-->
 END

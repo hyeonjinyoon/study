@@ -10,6 +10,5 @@ Lost? **Due** to who? - Probably **due** to himself?
 
 
 해석:
-
 <!--ID: 1733726319975-->
 END

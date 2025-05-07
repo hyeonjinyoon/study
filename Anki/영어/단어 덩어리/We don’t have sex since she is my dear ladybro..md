@@ -10,6 +10,5 @@ We don’t have sex **since** she is my dear ladybro.
 
 
 해석:
-
 <!--ID: 1733715580983-->
 END

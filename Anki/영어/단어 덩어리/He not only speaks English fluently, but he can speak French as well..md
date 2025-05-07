@@ -10,6 +10,5 @@ He not only speaks English fluently, but he can speak French **as well**.
 
 
 해석:
-
 <!--ID: 1733726319972-->
 END

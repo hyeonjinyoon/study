@@ -10,6 +10,5 @@ The mob **advanced** on us, shouting angrily.
 
 
 해석:
-
 <!--ID: 1733296949182-->
 END

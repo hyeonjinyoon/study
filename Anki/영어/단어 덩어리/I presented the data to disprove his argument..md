@@ -10,6 +10,5 @@ I presented the data to **disprove** his argument.
 
 
 해석:
-
 <!--ID: 1733134677977-->
 END

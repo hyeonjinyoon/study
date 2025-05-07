@@ -10,6 +10,5 @@ Am I a **disgrace**? - Yeah.
 
 
 해석:
-
 <!--ID: 1733296949501-->
 END

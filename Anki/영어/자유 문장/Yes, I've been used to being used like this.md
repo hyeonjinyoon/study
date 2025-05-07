@@ -10,6 +10,5 @@ Yes, I've been used to being used like this
 
 
 해석:
-
 <!--ID: 1739329484756-->
 END

@@ -10,6 +10,5 @@ This region was **settled** by the Dutch in the nineteenth century.
 
 
 해석:
-
 <!--ID: 1733296949078-->
 END

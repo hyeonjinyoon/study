@@ -10,6 +10,5 @@ disease resulting from poor sanitation
 
 
 해석:
-
 <!--ID: 1725499512422-->
 END

@@ -10,6 +10,5 @@ Could you **possibly** open that window?
 
 
 해석:
-
 <!--ID: 1740388765557-->
 END

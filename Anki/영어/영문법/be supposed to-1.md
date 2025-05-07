@@ -10,6 +10,5 @@ I **was supposed to** return that book to the library yesterday.
 
 해석:
 > [[be supposed to]] : ~하기로 되어있다
-
 <!--ID: 1741850805090-->
 END

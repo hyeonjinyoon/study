@@ -15,6 +15,5 @@ When one explodes, nearby bombs also **detonate**
 폭발하다[시키다]
 
 해석:
-
 <!--ID: 1739505833765-->
 END

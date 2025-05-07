@@ -10,6 +10,5 @@ but there's no **concrete** plan.
 
 
 해석:
-
 <!--ID: 1733134677970-->
 END

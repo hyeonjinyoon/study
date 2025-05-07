@@ -10,6 +10,5 @@ I’m hoping to do a chemistry **degree**.
 
 
 해석:
-
 <!--ID: 1733726319979-->
 END

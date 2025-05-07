@@ -10,6 +10,5 @@ They **postulated** a 500-year lifespan for a plastic container.
 
 
 해석:
-
 <!--ID: 1734252693434-->
 END

@@ -10,6 +10,5 @@ It was **possibly** their worst performance ever.
 
 
 해석:
-
 <!--ID: 1740388765504-->
 END

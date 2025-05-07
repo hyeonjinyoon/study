@@ -10,6 +10,5 @@ Most coughs are viral in **origin**.
 
 
 해석:
-
 <!--ID: 1733134677969-->
 END

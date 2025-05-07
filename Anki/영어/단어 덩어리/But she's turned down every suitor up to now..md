@@ -10,6 +10,5 @@ But she's turned down every **suitor** up to now.
 
 
 해석:
-
 <!--ID: 1733133924647-->
 END

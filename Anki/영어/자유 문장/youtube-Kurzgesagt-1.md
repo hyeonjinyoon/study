@@ -11,6 +11,5 @@ My 6yo asked me to show him videos of "birds talking about dangerous things".  T
 
 
 해석:
-
 <!--ID: 1746521323593-->
 END

@@ -10,6 +10,5 @@ i just killed my ex
 
 
 해석:
-
 <!--ID: 1740735827509-->
 END

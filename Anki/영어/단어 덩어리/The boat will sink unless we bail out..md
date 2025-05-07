@@ -10,6 +10,5 @@ The boat will sink **unless** we bail out.
 
 
 해석:
-
 <!--ID: 1733134677967-->
 END

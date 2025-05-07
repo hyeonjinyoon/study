@@ -18,6 +18,5 @@ a **stellar** performance
 별의 , 뛰어난
 
 해석:
-
 <!--ID: 1739331516306-->
 END

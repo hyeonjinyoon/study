@@ -10,6 +10,5 @@ Enroll in painting lessons or **indulge** in gardening.
 
 
 해석:
-
 <!--ID: 1734252693739-->
 END

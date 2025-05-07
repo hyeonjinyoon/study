@@ -10,6 +10,5 @@ He was too **stubborn** to admit that he was wrong.
 
 
 해석:
-
 <!--ID: 1733726319976-->
 END

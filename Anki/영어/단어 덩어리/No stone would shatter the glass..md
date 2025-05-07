@@ -10,6 +10,5 @@ No stone would **shatter** the glass.
 
 
 해석:
-
 <!--ID: 1733133924649-->
 END

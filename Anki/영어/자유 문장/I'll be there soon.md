@@ -10,6 +10,5 @@ I'll be there soon
 
 
 해석:
-
 <!--ID: 1739329897029-->
 END

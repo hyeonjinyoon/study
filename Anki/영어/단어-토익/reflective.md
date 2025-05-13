@@ -2,7 +2,7 @@ START
 기본
 
 앞면:
-His abilities are not reflective of the team as a whole. 
+His abilities are not **reflective** of the team as a whole. 
 
 뒷면:
 그의 능력이 그 팀 전체를 반영하는 것은 아니다.

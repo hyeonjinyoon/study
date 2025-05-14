@@ -14,6 +14,6 @@ The garden will be **in bloom** by late April.
 Her creativity was finally **in bloom** after years of practice.  
 수년간의 연습 끝에 그녀의 창의성이 마침내 만개했다.
 
-{숙-형} (꽃이) 핀 , 한창 번성한
+{숙-형} (꽃이) 핀 , 꽃이 활짝 핀/만발한
 <!--ID: 1747104094503-->
 END

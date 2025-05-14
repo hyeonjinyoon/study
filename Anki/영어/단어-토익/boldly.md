@@ -6,6 +6,7 @@ You should **boldly** say who you like!
 
 뒷면:
 내가 좋아하는 사람은 누구다 왜 말을 못 해!
+*(누구를 좋아하는지 당당하게 말해!)*
 
 해석:
 Would you dare to dye your hair **boldly** pink?  

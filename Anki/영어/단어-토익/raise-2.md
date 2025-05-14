@@ -21,6 +21,7 @@ After a year of hard work, she finally got a **raise**.
 {동} 올리다 , 기르다 , 모금하다 , (의문을) 제기하다
 {명} 임금 인상 , 상승
 
+```
 - raise, lift
 	- raise : 가격 등을 올리거나 의문을 제기할 때 주로 쓰임
 	- lift : 무거운 것을 들어 올린다는 의미
@@ -29,5 +30,6 @@ After a year of hard work, she finally got a **raise**.
 		- 타동사로 목적어 반드시 수반
 	- rise : 오르다
 		- 자동사로 목적어 없음
+```
 <!--ID: 1746762084369-->
 END

@@ -4,7 +4,6 @@ START
 앞면:
 barely
 
-
 뒷면:
 The music was **barely** audible. 
 그 음악은 간신히 들릴 정도였다.
@@ -16,6 +15,6 @@ I had **barely** started speaking when he interrupted me.
 내가 말을 시작하자마자, 그가 끼어들었다.
 
 해석:
-[부사] 간신히 , 거의 …아니게 , 거의 …하자마자
+{부} 간신히 , 거의 …아니게 , 거의 …하자마자
 <!--ID: 1739521286267-->
 END

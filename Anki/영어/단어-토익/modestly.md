@@ -14,6 +14,10 @@ Meanwhile, bond prices rose **modestly** Thursday.
 The guests were asked to dress **modestly** for the ceremony.  
 손님들은 그 의식에서 단정하게(노출을 자제하고) 옷을 입어 달라는 요청을 받았다.
 
+> [[modest]] - {형} 겸손한 , 수수한 , 보통의
+> 맞아요, 저도 아주 단정한 치마를 갖고 있습니다.
+> That's right. I also have a very **modest** skirt.
+
 {부} 겸손하게 , 적당히 , (옷차림이) 얌전하게
 <!--ID: 1747213161387-->
 END

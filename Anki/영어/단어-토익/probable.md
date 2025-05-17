@@ -15,11 +15,12 @@ Coach Kim named Lee the team's **probable** for tomorrow's game.
 {명} 유력 후보
 
 > probably : {부} 아마
+> 
+> It **probably** is. **Probably**~
+> 맞을거야 , 아마~
+> 
+> 한이가 좋아하겠네요.
+> Han **probably** likes it.
 
-It **probably** is. **Probably**~
-맞을거야 , 아마~
-
-한이가 좋아하겠네요.
-Han **probably** likes it.
 <!--ID: 1746762084371-->
 END

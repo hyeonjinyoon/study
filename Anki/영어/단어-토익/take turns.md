@@ -8,7 +8,7 @@ My roommates and I **take turns** cleaning the kitchen.
 나는 룸메이트들과 함께 주방 청소를 교대로 한다.
 
 해석:
-The male and female birds take turns in sitting on the eggs. 
+The male and female birds **take turns** in sitting on the eggs. 
 그 새는 암컷과 수컷이 교대로 알을 품는다.
 
 Let's **take turns** giving our opinions. - Deal?

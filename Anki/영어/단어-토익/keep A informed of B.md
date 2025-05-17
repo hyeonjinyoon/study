@@ -8,6 +8,8 @@ Please **keep me informed of any schedule changes**.
 일정 변경이 있으면 꼭 알려주세요.
 
 해석:
+keep A informed of B
+
 We will **keep you informed of further developments**.  
 우리는 추가 진행 상황을 계속 알려드리겠습니다.
 

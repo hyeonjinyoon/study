@@ -362,7 +362,7 @@
     "Anki/일본어/히라가나/ゑ.md": "ceb8a705d924fad7723622d458773173",
     "Anki/일본어/히라가나/を.md": "ed63bc1109a658114feafb5c71071188",
     "Anki/일본어/히라가나/ん.md": "c3b0f057df2533ca1f04551bab651b79",
-    "Anki/추가할 단어.md": "7ff93bc94ffb55985ba5c99ef38b76d5",
+    "Anki/추가할 단어.md": "3d08e57651ae19a9c86d978ed78f3187",
     "Anki/한자/간체/你.md": "687d8db70139cae16324f05bf475e826",
     "Anki/한자/간체/爱.md": "f88d95bb75340391ae018f7c606b0227",
     "Anki/한자/정체/乃.md": "a459a48a372a407dcbdf1f96baa41c74",
@@ -491,7 +491,7 @@
     "Anki/영어/단어-토익/coordinator.md": "6d3984ba65d712bb3d9ffb68e30cd355",
     "Anki/영어/단어-토익/copy editor.md": "b30169144bbe2192ebfebd6ec5a69357",
     "Anki/영어/단어-토익/correct-2.md": "958e8eed8e434bb9fbe8249eb097dd70",
-    "Anki/영어/단어-토익/count on.md": "49063eafbf94b2159ad254218df89554",
+    "Anki/영어/단어-토익/count on.md": "a919365a2ac13e70b047d133b9762811",
     "Anki/영어/단어-토익/counter.md": "4496cfbf63529522607ff86e9a213508",
     "Anki/영어/단어-토익/cover letter-1.md": "640a40912a822be98900cf3a5a52733f",
     "Anki/영어/단어-토익/cover one’s shift.md": "1c9da7ccfb4ad1a5f276a40a2329f26c",
@@ -553,7 +553,7 @@
     "Anki/영어/단어-토익/essential-2.md": "0008e0676018c806e3866719ec838e0b",
     "Anki/영어/단어-토익/evacuate.md": "b98d9e53177ba16d5ba85ab092138846",
     "Anki/영어/단어-토익/even though-2.md": "4fd39df6a369521be81ca91c0db0f665",
-    "Anki/영어/단어-토익/excel-1.md": "052297dee1f92ed369b885f7226183f1",
+    "Anki/영어/단어-토익/excel-1.md": "f9a0e8940815ab2db273a85cdda8d2b0",
     "Anki/영어/단어-토익/exception-1.md": "580d33afb4fdec6daa50844ff37a648a",
     "Anki/영어/단어-토익/exclusive-1.md": "fd55f6f8d5b927b3a83c2b8c030d5b7c",
     "Anki/영어/단어-토익/excuse-2.md": "8902587b79ea38ec7f5cd165d9c07292",
@@ -4672,7 +4672,12 @@
     "Anki/영어/단어-토익/ample.md": "f05f050f6aad1fc6bd30b812df39b4f7",
     "Anki/영어/단어-토익/a range of.md": "516decc8da6e69698cc97810cef90d6d",
     "Anki/영어/단어-토익/attend to a client.md": "cf9e386b2662c352be68a97c05ab8c4e",
-    "Anki/영어/단어-토익/confront.md": "d9ee169cb8f18569343b753c70160811"
+    "Anki/영어/단어-토익/confront.md": "d9ee169cb8f18569343b753c70160811",
+    "Anki/영어/단어-워드마스터2000/sequence.md": "449ac2fb84ba8c3173442d589f79f1ac",
+    "Anki/영어/단어 덩어리/vanity-2.md": "a9cc575fc03192963b2ad4680430fcde",
+    "Anki/영어/단어 덩어리/explicit-2.md": "ec717ebe6429480b0ea1aa1b8ee21c5d",
+    "Anki/영어/단어 덩어리/vivid-2.md": "f878c7c61807914ec7f01fd59b55ce8c",
+    "Anki/영어/단어 덩어리/ellipsis.md": "22c3fc56a5c039f4efe661b3de50fedb"
   },
   "fields_dict": {
     "Basic BehindSound": [

@@ -8,8 +8,9 @@ She has always **excelled** in foreign languages.
 뒷면:
 그녀는 항상 외국어에 뛰어났다.
 
-
 해석:
+excel
+
 He hopes to **excel** in his math class this semester.
 이번 학기에 수학에서 뛰어난 성적을 거두길 바라고 있어.
 

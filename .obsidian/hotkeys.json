@@ -1,11 +1,10 @@
 {
-  "workspace:new-tab": [],
   "insert-template": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "T"
+      "key": "Y"
     }
   ],
   "open-with-default-app:show": [

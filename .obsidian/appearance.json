@@ -6,6 +6,6 @@
   "showViewHeader": true,
   "showRibbon": true,
   "baseFontSize": 15,
-  "textFontFamily": "Noto Sans,Noto Sans KR,Noto Sans SC,Noto Sans JP",
-  "interfaceFontFamily": "Noto Sans,Noto Sans KR,Noto Sans SC,Noto Sans JP"
+  "textFontFamily": "Pretendard Variable,Noto Sans,Noto Sans KR,Noto Sans SC,Noto Sans JP",
+  "interfaceFontFamily": "Pretendard Variable,Noto Sans,Noto Sans KR,Noto Sans SC,Noto Sans JP"
 }

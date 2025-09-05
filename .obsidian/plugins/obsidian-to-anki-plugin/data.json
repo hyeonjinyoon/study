@@ -128,7 +128,13 @@
       "Anki/영어/넷플릭스/릭앤모티": "전체::영어::넷플릭스::릭앤모티",
       "Anki/영어/워드마스터수능2000": "전체::영어::영단어::수능영단어",
       "Anki/영어/단어-워드마스터2000": "전체::영어::영단어::워드마스터2000",
-      "Anki/영어/단어-중학영단어": "전체::영어::영단어::중학영단어"
+      "Anki/영어/단어-중학영단어": "전체::영어::영단어::중학영단어",
+      "Resource": "",
+      "Anki/기타": "전체::기타",
+      "Archive/Anki": "",
+      "Resource/Images": "",
+      "Anki/기타/알파벳": "전체::기타::알파벳",
+      "Archive/Anki/일본어": ""
     },
     "FOLDER_TAGS": {
       "Anki": "obsidian",
@@ -227,7 +233,13 @@
       "Anki/영어/넷플릭스/릭앤모티": "",
       "Anki/영어/워드마스터수능2000": "",
       "Anki/영어/단어-워드마스터2000": "",
-      "Anki/영어/단어-중학영단어": ""
+      "Anki/영어/단어-중학영단어": "",
+      "Resource": "",
+      "Anki/기타": "",
+      "Archive/Anki": "",
+      "Resource/Images": "",
+      "Anki/기타/알파벳": "",
+      "Archive/Anki/일본어": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -4677,7 +4689,37 @@
     "Anki/영어/단어 덩어리/vanity-2.md": "a9cc575fc03192963b2ad4680430fcde",
     "Anki/영어/단어 덩어리/explicit-2.md": "ec717ebe6429480b0ea1aa1b8ee21c5d",
     "Anki/영어/단어 덩어리/vivid-2.md": "f878c7c61807914ec7f01fd59b55ce8c",
-    "Anki/영어/단어 덩어리/ellipsis.md": "22c3fc56a5c039f4efe661b3de50fedb"
+    "Anki/영어/단어 덩어리/ellipsis.md": "22c3fc56a5c039f4efe661b3de50fedb",
+    "Anki/영어/단어 덩어리/likewise-2.md": "e4c1ff9b145d9ad19ff256feb177fbed",
+    "Anki/영어/단어 덩어리/discard.md": "0a5eb792a468c01d6f9b2327acf78e22",
+    "Anki/영어/단어 덩어리/contrary.md": "1f1ce343c6fc308dc02c9093dec4e81e",
+    "Anki/기타/알파벳/a.md": "cc3e9e96b785eb9c53cc0ff7fcb7569e",
+    "Anki/기타/알파벳/b.md": "e9016a26865f5401903b60f7ad517f26",
+    "Anki/기타/알파벳/c.md": "8e684c8aaa9dc91779c9b309cd627724",
+    "Anki/기타/알파벳/d.md": "e1a1ebc25a81d3670411138900d0f241",
+    "Anki/기타/알파벳/e.md": "4a907e34d94b39b46182960ab338f347",
+    "Anki/기타/알파벳/f.md": "947710841c20bd00a239c8ccb595be5a",
+    "Anki/기타/알파벳/g.md": "a44e7fac15fa2eaa568518101118d88f",
+    "Anki/기타/알파벳/h.md": "ee665ea59bf46909b12991a017294e8b",
+    "Anki/기타/알파벳/i.md": "76829f65c364a6db37f8fa2ec4ab5bbc",
+    "Anki/기타/알파벳/j.md": "6620c60a7f42f6680ebbefec668b709d",
+    "Anki/기타/알파벳/k.md": "35c3b2d60b81a4f52fbc006261acf40b",
+    "Anki/기타/알파벳/l.md": "6e6af2af84d30e369adb11d700ccb23c",
+    "Anki/기타/알파벳/m.md": "d84721d5e7f95f048aad19d9dd1f025c",
+    "Anki/기타/알파벳/n.md": "846df6b567b7798de465b0891adbc77b",
+    "Anki/기타/알파벳/o.md": "4a775a9e53484394e3cf53fbac068dfb",
+    "Anki/기타/알파벳/p.md": "e5538e5198bec4eda4652f79e261f652",
+    "Anki/기타/알파벳/q.md": "90b839b721e8bd80456aec37d8ec4902",
+    "Anki/기타/알파벳/r.md": "54272cb89fb3a650560212ab056b479a",
+    "Anki/기타/알파벳/s.md": "ade1386bba6b8af8d3b31440e5699495",
+    "Anki/기타/알파벳/t.md": "c744428965c4a03435279d985ade3ebf",
+    "Anki/기타/알파벳/u.md": "f741d17a2a771e9b0952b2ea4fd785c3",
+    "Anki/기타/알파벳/v.md": "12789986f75050c8e183b3e4f1debdc9",
+    "Anki/기타/알파벳/w.md": "ad582fc69d31f8e2e76ce50d8204622b",
+    "Anki/기타/알파벳/x.md": "5d7b99f51c53f0e4ce35e8bec7b089e2",
+    "Anki/기타/알파벳/y.md": "23bae404b3b7704dcac8b93ed419d597",
+    "Anki/기타/알파벳/z.md": "989e2a8e0e413e788ac3a05dc9fd9c02",
+    "Anki/영어/단어 덩어리/willing-2.md": "b603b14327f270f2f16372e1723ce61e"
   },
   "fields_dict": {
     "Basic BehindSound": [

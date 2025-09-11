@@ -268,7 +268,8 @@
     ]
   },
   "Added Media": [
-    "Pasted image 20230916173230.png"
+    "Pasted image 20230916173230.png",
+    "Pasted image 20250521131650.png"
   ],
   "File Hashes": {
     "Anki/국어/도치.md": "8736c571355bcb8f024603364576df38",
@@ -374,7 +375,7 @@
     "Anki/일본어/히라가나/ゑ.md": "ceb8a705d924fad7723622d458773173",
     "Anki/일본어/히라가나/を.md": "ed63bc1109a658114feafb5c71071188",
     "Anki/일본어/히라가나/ん.md": "c3b0f057df2533ca1f04551bab651b79",
-    "Anki/추가할 단어.md": "3d08e57651ae19a9c86d978ed78f3187",
+    "Anki/추가할 단어.md": "ffca71df5eae6bc3560a38958205c4a8",
     "Anki/한자/간체/你.md": "687d8db70139cae16324f05bf475e826",
     "Anki/한자/간체/爱.md": "f88d95bb75340391ae018f7c606b0227",
     "Anki/한자/정체/乃.md": "a459a48a372a407dcbdf1f96baa41c74",
@@ -4719,7 +4720,22 @@
     "Anki/기타/알파벳/x.md": "5d7b99f51c53f0e4ce35e8bec7b089e2",
     "Anki/기타/알파벳/y.md": "23bae404b3b7704dcac8b93ed419d597",
     "Anki/기타/알파벳/z.md": "989e2a8e0e413e788ac3a05dc9fd9c02",
-    "Anki/영어/단어 덩어리/willing-2.md": "b603b14327f270f2f16372e1723ce61e"
+    "Anki/영어/단어 덩어리/willing-2.md": "1cc53f0513a734e25947fb8dd9ad85fc",
+    "Anki/영어/단어 덩어리/contrary-2.md": "1f1ce343c6fc308dc02c9093dec4e81e",
+    "Anki/영어/단어 덩어리/discard-2.md": "0a5eb792a468c01d6f9b2327acf78e22",
+    "Anki/영어/단어 덩어리/purse-2.md": "808c18223898659154eb0ebf7f304d58",
+    "Anki/영어/단어 덩어리/sniff.md": "29d14eb15b3ea609d13fb6789b9bef2a",
+    "Anki/영어/단어 덩어리/lavish.md": "27525a8f4944b2fc97e9f385a8f8b390",
+    "Anki/영어/단어 덩어리/Pacific.md": "5fe9284bf9ac4320eea6f6531c58c87f",
+    "Anki/영어/단어 덩어리/correspond-2.md": "c525f2c00131f54144d3ff309fbed9b4",
+    "Anki/영어/단어 덩어리/impulse-2.md": "9194d36d0a5d26411801a2cd3821827d",
+    "Anki/영어/단어 덩어리/associate-2.md": "c220462155dff515ad127fc5a6934864",
+    "Anki/영어/단어 덩어리/analogy-2.md": "7d967ae058e452c8094cba11ef92c521",
+    "Anki/영어/단어 덩어리/vocation-2.md": "45f6456df61f842bdbf0c3ba8f618ed1",
+    "Anki/영어/단어 덩어리/resolve-3.md": "3ab2ddbfa596654c23a2afba405f188e",
+    "Anki/영어/단어 덩어리/on the loose.md": "db6d0733a322341b58194eeee9232637",
+    "Anki/영어/단어 덩어리/ease-2.md": "7737832d907ee363ed6f525f8bfa23ad",
+    "Anki/영어/단어 덩어리/evict.md": "7e0bcc75983acfd4b21d91a0ef887a42"
   },
   "fields_dict": {
     "Basic BehindSound": [

@@ -21,6 +21,5 @@ Coach Kim named Lee the team's **probable** for tomorrow's game.
 > 
 > 한이가 좋아하겠네요.
 > Han **probably** likes it.
-
 <!--ID: 1746762084371-->
 END

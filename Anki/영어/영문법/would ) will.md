@@ -34,6 +34,5 @@ B: You’ll be running the project after I leave. What will you do in my place?
 
 해석:
 
-
 <!--ID: 1747489349412-->
 END
